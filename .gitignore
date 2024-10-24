@@ -1,6 +1,6 @@
 # Object file
 *.o
-.DS_Store
+.txt
 
 # Ada Library Information
 *.ali
